@@ -1,0 +1,16 @@
+{
+  "name": "ethworks-recruitment-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha"
+  },
+  "author": "Bartłomiej Rasztabiga",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "4.2.0",
+    "mocha": "7.1.2"
+  }
+}
